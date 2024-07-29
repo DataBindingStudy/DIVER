@@ -1,38 +1,6 @@
 # Directory description
 
-DIVER  
-│   readme.md  ------  This readme file  
-│  
-├───example  ------  An example with Spring Framework, Tomcat container, and JDK 11 for getting started  
-│   ├───docker  
-│   │       apache-tomcat-9.0.60.tar.gz  ------  Tomcat container  
-│   │       Dockerfile  
-│   │       docker_build.sh  
-│   │       helloworld.war  ------  The demo Spring web application  
-│   │  
-│   └───fuzzing  
-│       ├───AFR  ------  Arbitrary File Read  
-│       │       AFR_output.txt  ------  The details of the fuzzing process  
-│       │       AFR_result.txt  ------  The fuzzing result  
-│       │       fuzzing_AFR.py  ------  The fuzzing program  
-│       │       nps.txt  ------  The nested properties  
-│       │       restart_docker.sh  ------  The script for restarting web service  
-│       │  
-│       └───DoS  ------  Denial of Service  
-│               DoS_output.txt  ------  The details of the fuzzing process  
-│               DoS_result.txt  ------  The fuzzing result  
-│               fuzzing_DoS.py  ------  The fuzzing program  
-│               nps.txt  ------  The nested properties  
-│               restart_docker.sh  ------  The script for restarting web service  
-│  
-└───source code  
-    │   garilsMain.zip  
-    │   SpringTest.zip  
-    │  
-    └───fuzzing  
-            fuzzing_AFR.py  
-            fuzzing_DoS.py  
-            restart_docker.sh  
+![image](https://github.com/user-attachments/assets/e4817d1e-6d4e-417d-9eda-fda8b9187a22)
 
 
 
