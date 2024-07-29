@@ -1,0 +1,11 @@
+WSDoS: {'class.module.classLoader.resources.context.path': ''}
+OSDoS: thread changed from 17 to 24: {'class.module.classLoader.resources.context.startStopThreads': '100'}
+WSDoS: {'class.module.classLoader.resources.context.catalinaBase.executable': 'false'}
+OSDoS: thread changed from 17 to 26: {'class.module.classLoader.resources.context.parent.startStopThreads': '100'}
+WSDoS: {'class.module.classLoader.resources.context.catalinaBase.parentFile.executable': 'false'}
+WSDoS: {'class.module.classLoader.resources.context.manager.engine.defaultHost': ''}
+OSDoS: thread changed from 17 to 24: {'class.module.classLoader.resources.context.manager.engine.startStopThreads': '100'}
+WSDoS: {'class.module.classLoader.resources.context.parent.appBaseFile.executable': 'false'}
+WSDoS: {'class.module.classLoader.resources.context.manager.engine.service.mapper.defaultHostName': ''}
+OSDoS: thread changed from 17 to 24: {'class.module.classLoader.resources.context.manager.engine.service.server.utilityThreads': '100'}
+WSDoS: {'class.module.classLoader.resources.context.parent.configBaseFile.parentFile.parentFile.executable': 'false'}
